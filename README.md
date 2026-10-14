@@ -1,10 +1,10 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Adarsh&fontSize=48&fontColor=5EEAD4&desc=Java%20%7C%20Spring%20Boot%20%7C%20Real-time%20Systems&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Aditya Adarsh banner" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Adarsh&fontSize=48&fontColor=5EEAD4&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%26%20Databases&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Aditya Adarsh banner" />
 
-<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Building+real-time+backend+systems;Shuffled+exams+%2B+JWT-secured+APIs;Solving+problems+on+LeetCode;Learning+Docker+and+CI%2FCD" alt="Typing animation" />
+<img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Full-stack+developer;Backend+%26+database+design;Real-time+apps+with+WebSockets+%26+WebRTC;Solving+problems+on+LeetCode" alt="Typing animation" />
 
-📍 India &nbsp;·&nbsp; 💻 Java / Spring Boot Developer &nbsp;·&nbsp; 🎯 Backend &amp; Real-time Systems
+📍 India &nbsp;·&nbsp; 💻 Full-Stack Developer &nbsp;·&nbsp; 🎯 Backend &amp; Databases
 
 [![About](https://img.shields.io/badge/About-0f2027?style=flat-square)](#about)
 [![Stack](https://img.shields.io/badge/Stack-203a43?style=flat-square)](#tech-arsenal)
@@ -16,14 +16,14 @@
 
 ## About
 
-```java
-public class Aditya {
-    String name     = "Aditya Adarsh";
-    String role     = "Java / Spring Boot Developer";
-    String focus    = "Real-time systems, secure APIs, clean architecture";
-    String[] learning = {"Docker", "CI/CD", "Testcontainers", "System Design"};
-    boolean building  = true;   // exam-api: JWT + PostgreSQL + Docker
-}
+```ts
+const aditya = {
+  name: "Aditya Adarsh",
+  role: "Full-Stack Developer · Backend & Databases",
+  focus: ["multi-tenant SaaS", "PostgreSQL & data modelling", "real-time apps"],
+  stack: ["TypeScript", "Next.js", "Node.js", "Java / Spring", "PostgreSQL"],
+  learning: ["Docker", "CI/CD", "System Design"],
+};
 ```
 
 ## Tech Arsenal
@@ -31,10 +31,10 @@ public class Aditya {
 <div align="center">
 
 **Languages**<br>
-<img src="https://skillicons.dev/icons?i=java,c,py,php,js&theme=dark" alt="Languages" />
+<img src="https://skillicons.dev/icons?i=java,ts,js,py,c,php&theme=dark" alt="Languages" />
 
 **Backend &amp; Web**<br>
-<img src="https://skillicons.dev/icons?i=spring,html,css&theme=dark" alt="Backend and web" />
+<img src="https://skillicons.dev/icons?i=spring,nodejs,react,nextjs,tailwind,prisma,html,css&theme=dark" alt="Backend and web" />
 
 **Databases**<br>
 <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite&theme=dark" alt="Databases" />
@@ -50,9 +50,9 @@ public class Aditya {
 
 | | |
 | :-- | :-- |
-| ![Java](https://img.shields.io/badge/Real--time-5EEAD4?style=flat-square&labelColor=0f2027) **Resource Monitoring Dashboard**<br>Live CPU, memory and disk metrics over WebSockets, with anomaly analytics.<br>[Code ↗](https://github.com/Aditya26279/Smart-Resource-Monitoring-Dashboard) | ![Java](https://img.shields.io/badge/Security-5EEAD4?style=flat-square&labelColor=0f2027) **Exam Anti-Cheating System**<br>Fisher–Yates shuffled exams and a heuristic cheating score.<br>[Code ↗](https://github.com/Aditya26279/Online-Examination-Anti-Cheating-System) |
-| ![API](https://img.shields.io/badge/REST%20API-5EEAD4?style=flat-square&labelColor=0f2027) **Exam API**<br>JWT auth, PostgreSQL, Flyway, Docker and CI.<br>[Code ↗](https://github.com/Aditya26279/exam-api) | ![Network](https://img.shields.io/badge/Networking-5EEAD4?style=flat-square&labelColor=0f2027) **Multimedia LAN Chat**<br>Text, images, files and push-to-talk voice over a LAN.<br>[Code ↗](https://github.com/Aditya26279/Multimedia-Based-LAN-Chat-Application) |
-| ![C](https://img.shields.io/badge/C%20%2B%20SQLite-5EEAD4?style=flat-square&labelColor=0f2027) **Mini E-Commerce**<br>Full-stack shop with a C CGI backend and vanilla JS UI.<br>[Code ↗](https://github.com/Aditya26279/mini-ecommerce-system) | ![PHP](https://img.shields.io/badge/PHP%20%2B%20MySQL-5EEAD4?style=flat-square&labelColor=0f2027) **Online Quiz App**<br>Login, quizzes, results and an admin panel.<br>[Code ↗](https://github.com/Aditya26279/Online-Quiz-Application) |
+| ![Next.js](https://img.shields.io/badge/Next.js%20%2B%20TypeScript-5EEAD4?style=flat-square&labelColor=0f2027) **Freelance Project Tracker (Clientdesk)**<br>Freelance SaaS with a client portal: proposals, milestones, time tracking, invoices and Stripe / Razorpay payments.<br>[Code ↗](https://github.com/Aditya26279/freelance-project-tracker) | ![PostgreSQL](https://img.shields.io/badge/PostgreSQL%20RLS-5EEAD4?style=flat-square&labelColor=0f2027) **Multi-Tenant SaaS Database**<br>Tenant isolation with PostgreSQL Row-Level Security, role-based policies, audit log and 42 isolation and security tests.<br>[Code ↗](https://github.com/Aditya26279/multi-tenant-saas-database) |
+| ![WebRTC](https://img.shields.io/badge/WebRTC%20%2B%20Node.js-5EEAD4?style=flat-square&labelColor=0f2027) **WebRTC Video Calling App**<br>Multi-user video calls with a WebSocket signaling server, STUN/TURN, screen sharing, chat and Docker deployment.<br>[Code ↗](https://github.com/Aditya26279/webrtc-video-calling-app) | ![Java](https://img.shields.io/badge/Java%20%2B%20Spring-5EEAD4?style=flat-square&labelColor=0f2027) **Smart Resource Monitoring Dashboard**<br>Live CPU, memory and disk metrics streamed over WebSockets, with anomaly analytics.<br>[Code ↗](https://github.com/Aditya26279/Smart-Resource-Monitoring-Dashboard) |
+| ![Java](https://img.shields.io/badge/Java%20Sockets-5EEAD4?style=flat-square&labelColor=0f2027) **Multimedia LAN Chat Application**<br>Multi-client chat with text, images, file transfer and push-to-talk voice over a LAN.<br>[Code ↗](https://github.com/Aditya26279/Multimedia-Based-LAN-Chat-Application) | ![Web](https://img.shields.io/badge/HTML%20%2B%20CSS%20%2B%20JS-5EEAD4?style=flat-square&labelColor=0f2027) **Bio-Link Website**<br>Responsive personal page with social links, resume access and a saved light/dark theme.<br>[Live ↗](https://aditya26279.github.io/bio-link-website/) · [Code ↗](https://github.com/Aditya26279/bio-link-website) |
 
 ## LeetCode
 
