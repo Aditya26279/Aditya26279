@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=220&section=header&text=Aditya%20Adarsh&fontSize=48&fontColor=5EEAD4&desc=Full-Stack%20Developer%20%C2%B7%20Backend%20%26%20Databases&descSize=18&descAlignY=65&animation=fadeIn" width="100%" alt="Aditya Adarsh banner" />
+<img src="assets/banner.svg" width="100%" alt="Aditya Adarsh banner" />
 
 <img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=500&size=20&pause=1200&color=5EEAD4&center=true&vCenter=true&width=620&lines=Full-stack+developer;Backend+%26+database+design;Real-time+apps+with+WebSockets+%26+WebRTC;Solving+problems+on+LeetCode" alt="Typing animation" />
 
@@ -78,8 +78,6 @@ const aditya = {
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/aditya-adarsh-5669872b6/)
 [![LeetCode](https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black)](https://leetcode.com/u/Aditya_36/)
 
-<img src="https://komarev.com/ghpvc/?username=Aditya26279&label=Profile+views&color=2c5364&style=flat" alt="Profile views" />
-
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2c5364,50:203a43,100:0f2027&height=100&section=footer&text=Let's%20build%20something%20reliable&fontSize=20&fontColor=5EEAD4&fontAlignY=70" width="100%" alt="" />
+<img src="assets/footer.svg" width="100%" alt="Let's build something reliable" />
 
 </div>
